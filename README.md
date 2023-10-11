@@ -1,2 +1,2 @@
-# My-Github-Project
+# My-GitHub-Project
 テストです。
